@@ -1,1 +1,0 @@
-# ferhatozcelik-gitbook
