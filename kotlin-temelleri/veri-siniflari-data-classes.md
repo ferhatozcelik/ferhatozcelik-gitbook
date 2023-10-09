@@ -1,0 +1,2 @@
+# 🥳 Veri Sınıfları (Data Classes)
+

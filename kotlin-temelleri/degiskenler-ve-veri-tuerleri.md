@@ -1,0 +1,6 @@
+# ☺ Değişkenler ve Veri Türleri
+
+
+
+
+
