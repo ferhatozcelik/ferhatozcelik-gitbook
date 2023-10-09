@@ -1,2 +1,0 @@
-# 😊 Intent ve Activity Geçişleri
-

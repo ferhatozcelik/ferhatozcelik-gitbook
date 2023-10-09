@@ -1,2 +1,0 @@
-# 🤩 View ve Layout Tasarımı
-

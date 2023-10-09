@@ -1,2 +1,0 @@
-# 😂 Sınıflar ve Nesneler
-

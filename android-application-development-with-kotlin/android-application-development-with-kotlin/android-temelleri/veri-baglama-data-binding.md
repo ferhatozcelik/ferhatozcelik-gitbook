@@ -1,2 +1,0 @@
-# 🙂 Veri Bağlama (Data Binding)
-

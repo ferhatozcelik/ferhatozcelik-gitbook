@@ -1,2 +1,0 @@
-# 😂 Soyut Sınıflar (Abstract Classes)
-

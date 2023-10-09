@@ -1,2 +1,0 @@
-# 😃 Fonksiyonlar ve Metotlar
-

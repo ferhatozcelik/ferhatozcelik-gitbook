@@ -1,2 +1,0 @@
-# 😎 Genişletme Fonksiyonları (Extension Functions)
-

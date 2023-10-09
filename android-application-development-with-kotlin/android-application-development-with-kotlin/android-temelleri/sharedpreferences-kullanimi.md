@@ -1,2 +1,0 @@
-# 🥲 SharedPreferences Kullanımı
-

@@ -1,2 +1,0 @@
-# 😟 RecyclerView ve ListView Kullanımı
-

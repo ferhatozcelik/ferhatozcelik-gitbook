@@ -1,2 +1,0 @@
-# 🙃 Kalıtım (Inheritance)
-

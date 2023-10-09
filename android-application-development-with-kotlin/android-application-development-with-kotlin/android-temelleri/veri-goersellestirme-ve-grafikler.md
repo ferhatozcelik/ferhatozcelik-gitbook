@@ -1,2 +1,0 @@
-# 😉 Veri Görselleştirme ve Grafikler
-
