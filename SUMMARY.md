@@ -3,7 +3,7 @@
 * [💻 Android Kotlin İle Uygulama Geliştirme](README.md)
 * [🕹 (OOP - Object-Oriented Programming)](oop-object-oriented-programming.md)
 * [🤖 Android Örnek Projeler](android-example-project.md)
-* [🤟 Android Studio IDE](android-studio-ide.md)
+* [🤟 Android Studio IDE](android-studio-ide/android-studio-ide.md)
 * [🌠 SOLID Prensipleri](solid-prensipleri.md)
 * [🚀 Software Craftsmanship](software-craftsmanship.md)
 * [⌛ Agile & Scrum Nedir?](agile-and-scrum-nedir/README.md)
@@ -29,7 +29,7 @@
 
 * [📪 Android Projesi Oluşturma](android-temelleri/android-projesi-olusturma.md)
 * [📎 Activity ve Fragment Kavramları](android-temelleri/activity-ve-fragment-kavramlari.md)
-* [🤩 View ve Layout Tasarımı](android-temelleri/view-ve-layout-tasarimi.md)
+* [🥳 View ve Layout Tasarımı](android-temelleri/view-ve-layout-tasarimi.md)
 * [😠 XML ve XML Layout Dosyaları](android-temelleri/xml-ve-xml-layout-dosyalari.md)
 * [🤐 Kullanıcı Arabirimi (UI) Elemanları (Button, EditText, ImageView, vb.)](android-temelleri/kullanici-arabirimi-ui-elemanlari-button-edittext-imageview-vb..md)
 * [🤢 Olay İşleme (Event Handling)](android-temelleri/olay-isleme-event-handling.md)

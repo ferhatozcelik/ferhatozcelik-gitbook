@@ -1,2 +1,2 @@
-# 🤩 View ve Layout Tasarımı
+# 🥳 View ve Layout Tasarımı
 
