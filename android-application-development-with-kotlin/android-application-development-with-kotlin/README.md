@@ -1,6 +1,6 @@
 ---
 cover: .gitbook/assets/lockup.svg
-coverY: 106.283534647171
+coverY: 0
 layout:
   cover:
     visible: true
@@ -41,7 +41,13 @@ Android Kotlin ile uygulama geliştirme, mobil uygulama dünyasına giriş yapma
 >
 > — Kaynak**:** [https://kotlinlang.org/docs/android-overview.html](https://kotlinlang.org/docs/android-overview.html)
 
-## Kotlin Temelleri
+## Kaynaklar
+
+{% content-ref url="ekler/kaynaklar.md" %}
+[kaynaklar.md](ekler/kaynaklar.md)
+{% endcontent-ref %}
+
+## Get Started
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
@@ -52,12 +58,6 @@ We've put together some helpful guides for you to get setup with our product qui
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-## Ekler
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
