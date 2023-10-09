@@ -41,24 +41,22 @@ Android Kotlin ile uygulama geliştirme, mobil uygulama dünyasına giriş yapma
 >
 > — Kaynak**:** [https://kotlinlang.org/docs/android-overview.html](https://kotlinlang.org/docs/android-overview.html)
 
+## Kotlin Temelleri
+
+{% content-ref url="kotlin-temelleri/degiskenler-ve-veri-tuerleri.md" %}
+[degiskenler-ve-veri-tuerleri.md](kotlin-temelleri/degiskenler-ve-veri-tuerleri.md)
+{% endcontent-ref %}
+
+{% content-ref url="kotlin-temelleri/kosullu-ifadeler-if-else-if-else.md" %}
+[kosullu-ifadeler-if-else-if-else.md](kotlin-temelleri/kosullu-ifadeler-if-else-if-else.md)
+{% endcontent-ref %}
+
+{% content-ref url="kotlin-temelleri/doengueler-for-while-do-while.md" %}
+[doengueler-for-while-do-while.md](kotlin-temelleri/doengueler-for-while-do-while.md)
+{% endcontent-ref %}
+
 ## Kaynaklar
 
 {% content-ref url="ekler/kaynaklar.md" %}
 [kaynaklar.md](ekler/kaynaklar.md)
-{% endcontent-ref %}
-
-## Get Started
-
-We've put together some helpful guides for you to get setup with our product quickly and easily.
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
 {% endcontent-ref %}
