@@ -1,8 +1,11 @@
 # Table of contents
 
 * [💻 Android Kotlin İle Uygulama Geliştirme](README.md)
+* [🕹 (OOP - Object-Oriented Programming)](oop-object-oriented-programming.md)
 * [🤖 Android Örnek Projeler](android-example-project.md)
+* [🌠 SOLID Prensipleri](solid-prensipleri.md)
 * [🚀 Software Craftsmanship](software-craftsmanship.md)
+* [🏭 Android CI / CD](android-ci-cd.md)
 
 ## Kotlin Temelleri
 
@@ -49,29 +52,13 @@
 * [🧐 APK Oluşturma ve İmzalama](android-temelleri/apk-olusturma-ve-imzalama.md)
 * [😏 Google Play Store'a Uygulama Yayınlama](android-temelleri/google-play-storea-uygulama-yayinlama.md)
 
-## OOP
+## Android Test
 
-* [🤩 Koşullu İfadeler (if, else if, else)](oop/kosullu-ifadeler-if-else-if-else.md)
-
-## Clean Architecture
-
-* [🤩 Koşullu İfadeler (if, else if, else)](clean-architecture/kosullu-ifadeler-if-else-if-else.md)
-
-## SOLID Prensipleri
-
-* [🤩 Koşullu İfadeler (if, else if, else)](solid-prensipleri/kosullu-ifadeler-if-else-if-else.md)
-
-## CI / CD
-
-* [🤩 Koşullu İfadeler (if, else if, else)](ci-cd/kosullu-ifadeler-if-else-if-else.md)
+* [🤩 Android Test](android-test/android-test.md)
 
 ## Android Studio IDE
 
-* [🤩 Koşullu İfadeler (if, else if, else)](android-studio-ide/kosullu-ifadeler-if-else-if-else.md)
-
-## Proje Yönetimi
-
-* [🤩 Koşullu İfadeler (if, else if, else)](proje-yoenetimi/kosullu-ifadeler-if-else-if-else.md)
+* [🤟 Android Studio IDE](android-studio-ide/android-studio-ide.md)
 
 ## Ekler
 
