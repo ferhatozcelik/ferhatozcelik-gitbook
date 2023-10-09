@@ -1,6 +1,8 @@
 # Table of contents
 
 * [💻 Android Kotlin İle Uygulama Geliştirme](README.md)
+* [🤖 Android Örnek Projeler](android-example-project.md)
+* [🚀 Software Craftsmanship](software-craftsmanship.md)
 
 ## Kotlin Temelleri
 
