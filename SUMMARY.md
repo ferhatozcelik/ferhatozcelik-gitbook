@@ -65,13 +65,13 @@
 
 * [🤩 Koşullu İfadeler (if, else if, else)](ci-cd/kosullu-ifadeler-if-else-if-else.md)
 
-## Proje Yönetimi
-
-* [🤩 Koşullu İfadeler (if, else if, else)](proje-yoenetimi/kosullu-ifadeler-if-else-if-else.md)
-
 ## Android Studio IDE
 
 * [🤩 Koşullu İfadeler (if, else if, else)](android-studio-ide/kosullu-ifadeler-if-else-if-else.md)
+
+## Proje Yönetimi
+
+* [🤩 Koşullu İfadeler (if, else if, else)](proje-yoenetimi/kosullu-ifadeler-if-else-if-else.md)
 
 ## Ekler
 
