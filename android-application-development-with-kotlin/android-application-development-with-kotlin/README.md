@@ -1,6 +1,6 @@
 ---
-cover: broken-reference
-coverY: 0
+cover: .gitbook/assets/lockup.svg
+coverY: 106.283534647171
 layout:
   cover:
     visible: true
