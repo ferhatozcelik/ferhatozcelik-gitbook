@@ -3,6 +3,7 @@
 * [💻 Android Kotlin İle Uygulama Geliştirme](README.md)
 * [🕹 (OOP - Object-Oriented Programming)](oop-object-oriented-programming.md)
 * [🤖 Android Örnek Projeler](android-example-project.md)
+* [🤟 Android Studio IDE](android-studio-ide.md)
 * [🌠 SOLID Prensipleri](solid-prensipleri.md)
 * [🚀 Software Craftsmanship](software-craftsmanship.md)
 * [⌛ Agile & Scrum Nedir?](agile-and-scrum-nedir/README.md)
@@ -55,10 +56,6 @@
 ## Android Test
 
 * [🤩 Android Test](android-test/android-test.md)
-
-## Android Studio IDE
-
-* [🤟 Android Studio IDE](android-studio-ide/android-studio-ide.md)
 
 ## Ekler
 
