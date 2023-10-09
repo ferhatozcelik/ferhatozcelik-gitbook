@@ -5,7 +5,9 @@
 * [🤖 Android Örnek Projeler](android-example-project.md)
 * [🌠 SOLID Prensipleri](solid-prensipleri.md)
 * [🚀 Software Craftsmanship](software-craftsmanship.md)
-* [🏭 Android CI / CD](android-ci-cd.md)
+* [⌛ Agile & Scrum Nedir?](agile-and-scrum-nedir/README.md)
+  * [🏎 Agile Manifesto](agile-and-scrum-nedir/agile-manifesto.md)
+  * [🚓 Scrum](agile-and-scrum-nedir/scrum.md)
 
 ## Kotlin Temelleri
 
@@ -40,8 +42,6 @@
 * [😔 Room Veritabanı Kütüphanesi](android-temelleri/room-veritabani-kuetuephanesi.md)
 * [🤓 Veri Kaynakları ve Repository Deseni](android-temelleri/veri-kaynaklari-ve-repository-deseni.md)
 * [😓 MVVM (Model-View-ViewModel) Mimarisi](android-temelleri/mvvm-model-view-viewmodel-mimarisi.md)
-* [😇 MVP (Model-View-Presenter) Mimarisi](android-temelleri/mvp-model-view-presenter-mimarisi.md)
-* [😆 MVC (Model-View-Controller) Mimarisi](android-temelleri/mvc-model-view-controller-mimarisi.md)
 * [😆 Fragmanlar (Fragments)](android-temelleri/fragmanlar-fragments.md)
 * [😒 Animasyonlar ve Geçişler](android-temelleri/animasyonlar-ve-gecisler.md)
 * [😌 Material Design ve UI İlkeleri](android-temelleri/material-design-ve-ui-ilkeleri.md)

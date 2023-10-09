@@ -1,0 +1,2 @@
+# ⌛ Agile & Scrum Nedir?
+
