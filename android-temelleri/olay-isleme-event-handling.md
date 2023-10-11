@@ -1,2 +1,0 @@
-# 🤢 Olay İşleme (Event Handling)
-

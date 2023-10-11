@@ -1,2 +1,0 @@
-# 😖 SQLite Veritabanı İşlemleri
-
