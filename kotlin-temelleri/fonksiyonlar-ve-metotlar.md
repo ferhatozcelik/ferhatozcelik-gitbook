@@ -2,7 +2,7 @@
 
 Kotlin'de fonksiyonlar ve metotlar (sınıf içinde tanımlanan fonksiyonlar) tanımlamak oldukça benzerdir. İşte Kotlin'de fonksiyonlar ve metotlar oluşturmanın temel özellikleri:
 
-**Fonksiyon Tanımlama**
+## **Fonksiyon Tanımlama**
 
 Kotlin'de fonksiyonlar `fun` anahtar kelimesi ile tanımlanır. Bir fonksiyonun adı, parametreleri ve dönüş türü belirtilmelidir.
 
@@ -16,7 +16,7 @@ fun topla(a: Int, b: Int): Int {
 
 Bu örnekte, `topla` adında bir fonksiyon, iki tamsayı parametre alır ve bir tamsayı değer döndürür.
 
-**Metot Tanımlama**
+## **Metot Tanımlama**
 
 Kotlin'de sınıfların içinde tanımlanan fonksiyonlara metot denir. Metotlar da `fun` anahtar kelimesiyle tanımlanır.
 
@@ -32,7 +32,7 @@ class HesapMakinesi {
 
 Bu örnekte, `HesapMakinesi` adında bir sınıf tanımlanmış ve bu sınıfın içinde `topla` adında bir metot tanımlanmıştır.
 
-**Fonksiyonları Çağırma**
+## **Fonksiyonları Çağırma**
 
 Tanımlanan bir fonksiyonu çağırmak için sadece fonksiyon adını ve gerekli parametreleri kullanmanız yeterlidir:
 
