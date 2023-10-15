@@ -38,28 +38,20 @@
   * [😠 XML ve XML Layout Dosyaları](android-temelleri/arayuez-islemleri/xml-ve-xml-layout-dosyalari.md)
   * [😟 RecyclerView ve ListView Kullanımı](android-temelleri/arayuez-islemleri/recyclerview-ve-listview-kullanimi.md)
   * [😆 Fragmanlar (Fragments)](android-temelleri/arayuez-islemleri/fragmanlar-fragments.md)
-  * [😌 Material Design ve UI İlkeleri](android-temelleri/arayuez-islemleri/material-design-ve-ui-ilkeleri.md)
+  * [😌 Material Design 3 ve UI İlkeleri](android-temelleri/arayuez-islemleri/material-design-3-ve-ui-ilkeleri.md)
   * [😖 Kullanıcı Geri Bildirimleri (Toasts, Snackbars, vb.)](android-temelleri/arayuez-islemleri/kullanici-geri-bildirimleri-toasts-snackbars-vb..md)
-  * [😒 Animasyonlar ve Geçişler](android-temelleri/arayuez-islemleri/animasyonlar-ve-gecisler.md)
 * [Database İşlemleri](android-temelleri/database-islemleri/README.md)
-  * [🤓 Veri Kaynakları ve Repository Deseni](android-temelleri/database-islemleri/veri-kaynaklari-ve-repository-deseni.md)
+  * [🤓 SQLite veritabanı kullanma](android-temelleri/database-islemleri/sqlite-veritabani-kullanma.md)
   * [🥲 SharedPreferences Kullanımı](android-temelleri/database-islemleri/sharedpreferences-kullanimi.md)
   * [😔 Room Veritabanı Kütüphanesi](android-temelleri/database-islemleri/room-veritabani-kuetuephanesi.md)
-  * [😁 SQLite ve Room Veritabanı İşlemleri](android-temelleri/database-islemleri/sqlite-ve-room-veritabani-islemleri.md)
-* [😌 HTTP İstekleri ve Retrofit Kütüphanesi](android-temelleri/http-istekleri-ve-retrofit-kuetuephanesi.md)
+* [😌 HTTP ile veri alma ve gönderme (Retrofit, OkHttp)](android-temelleri/http-ile-veri-alma-ve-goenderme-retrofit-okhttp.md)
 * [🙂 JSON Verilerini İşleme](android-temelleri/json-verilerini-isleme.md)
-* [😉 Veri Görselleştirme ve Grafikler](android-temelleri/veri-goersellestirme-ve-grafikler.md)
-* [😛 Dosya İşleme (Resimler, Metin Dosyaları, vb.)](android-temelleri/dosya-isleme-resimler-metin-dosyalari-vb..md)
+* [😉 API anahtarları ve güvenlik](android-temelleri/api-anahtarlari-ve-guevenlik.md)
+* [😱 Dosya depolama ve erişim izinleri](android-temelleri/dosya-depolama-ve-erisim-izinleri.md)
+* [😛 Dosya İşleme (Resim yükleme ve gösterme)](android-temelleri/dosya-isleme-resim-yuekleme-ve-goesterme.md)
 * [🧐 APK Oluşturma ve İmzalama](android-temelleri/apk-olusturma-ve-imzalama.md)
 * [😏 Google Play Store'a Uygulama Yayınlama](android-temelleri/google-play-storea-uygulama-yayinlama.md)
-
-## Dependency Injection
-
-* [🤩 Android Test](dependency-injection/android-test.md)
-
-## Android Test
-
-* [🤩 Android Test](android-test/android-test.md)
+* [🕵 Loglama ve hata ayıklama](android-temelleri/loglama-ve-hata-ayiklama.md)
 
 ## Ekler
 
