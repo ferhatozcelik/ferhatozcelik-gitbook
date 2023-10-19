@@ -28,7 +28,8 @@
 ## Android Temelleri
 
 * [📪 Android Projesi Oluşturma](android-temelleri/android-projesi-olusturma.md)
-* [📎 Activity ve Fragment Kavramları](android-temelleri/activity-ve-fragment-kavramlari.md)
+* [📎 Android Activity Sınıfı](android-temelleri/activity-ve-fragment-kavramlari.md)
+* [🖼 Fragment Nedir?](android-temelleri/fragment-nedir.md)
 * [😊 Intent ve Activity Geçişleri](android-temelleri/intent-ve-activity-gecisleri.md)
 * [🙂 Veri Bağlama (Data Binding)](android-temelleri/veri-baglama-data-binding.md)
 * [😓 MVVM (Model-View-ViewModel) Mimarisi](android-temelleri/mvvm-model-view-viewmodel-mimarisi.md)
