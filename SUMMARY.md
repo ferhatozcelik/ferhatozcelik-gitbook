@@ -1,18 +1,18 @@
 # Table of contents
 
 * [💻 Android Kotlin İle Uygulama Geliştirme](README.md)
-* [🕹 (OOP - Object-Oriented Programming)](oop-object-oriented-programming.md)
+* [🕹️ (OOP - Object-Oriented Programming)](oop-object-oriented-programming.md)
 * [🤖 Android Örnek Projeler](android-example-project.md)
 * [🤟 Android Studio IDE](android-studio-ide/android-studio-ide.md)
 * [🌠 SOLID Prensipleri](solid-prensipleri.md)
-* [🚀 Software Craftsmanship](software-craftsmanship.md)
+* [🚀 Software Craftsmanship: Yazılım Dünyasının Sanatçıları](software-craftsmanship.md)
 * [⌛ Agile & Scrum Nedir?](agile-and-scrum-nedir/README.md)
-  * [🏎 Agile Manifesto](agile-and-scrum-nedir/agile-manifesto.md)
+  * [🏎️ Agile](agile-and-scrum-nedir/agile-manifesto.md)
   * [🚓 Scrum](agile-and-scrum-nedir/scrum.md)
 
 ## Kotlin Temelleri
 
-* [☺ Değişkenler ve Veri Türleri](kotlin-temelleri/degiskenler-ve-veri-tuerleri.md)
+* [☺️ Değişkenler ve Veri Türleri](kotlin-temelleri/degiskenler-ve-veri-tuerleri.md)
 * [🤩 Koşullu İfadeler (if, else if, else)](kotlin-temelleri/kosullu-ifadeler-if-else-if-else.md)
 * [😂 Döngüler (for, while, do-while)](kotlin-temelleri/doengueler-for-while-do-while.md)
 * [😃 Fonksiyonlar ve Metotlar](kotlin-temelleri/fonksiyonlar-ve-metotlar.md)
@@ -22,14 +22,14 @@
 * [😂 Soyut Sınıflar (Abstract Classes)](kotlin-temelleri/soyut-siniflar-abstract-classes.md)
 * [🥳 Veri Sınıfları (Data Classes)](kotlin-temelleri/veri-siniflari-data-classes.md)
 * [😀 Nullable ve Non-Nullable Değişkenler](kotlin-temelleri/nullable-ve-non-nullable-degiskenler.md)
-* [☺ Lambda İfadeleri](kotlin-temelleri/lambda-ifadeleri.md)
+* [☺️ Lambda İfadeleri](kotlin-temelleri/lambda-ifadeleri.md)
 * [😎 Genişletme Fonksiyonları (Extension Functions)](kotlin-temelleri/genisletme-fonksiyonlari-extension-functions.md)
 
 ## Android Temelleri
 
 * [📪 Android Projesi Oluşturma](android-temelleri/android-projesi-olusturma.md)
 * [📎 Android Activity Sınıfı](android-temelleri/activity-ve-fragment-kavramlari.md)
-* [🖼 Fragment Nedir?](android-temelleri/fragment-nedir.md)
+* [🖼️ Fragment Nedir?](android-temelleri/fragment-nedir.md)
 * [😊 Intent ve Activity Geçişleri](android-temelleri/intent-ve-activity-gecisleri.md)
 * [🙂 Veri Bağlama (Data Binding)](android-temelleri/veri-baglama-data-binding.md)
 * [😓 MVVM (Model-View-ViewModel) Mimarisi](android-temelleri/mvvm-model-view-viewmodel-mimarisi.md)
@@ -52,7 +52,7 @@
 * [😛 Dosya İşleme (Resim yükleme ve gösterme)](android-temelleri/dosya-isleme-resim-yuekleme-ve-goesterme.md)
 * [🧐 APK Oluşturma ve İmzalama](android-temelleri/apk-olusturma-ve-imzalama.md)
 * [😏 Google Play Store'a Uygulama Yayınlama](android-temelleri/google-play-storea-uygulama-yayinlama.md)
-* [🕵 Loglama ve hata ayıklama](android-temelleri/loglama-ve-hata-ayiklama.md)
+* [🕵️ Loglama ve hata ayıklama](android-temelleri/loglama-ve-hata-ayiklama.md)
 
 ## Ekler
 
